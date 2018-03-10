@@ -11,9 +11,13 @@
             #life {
                 color: #33cc33;
             }
+            #logo {
+                margin-top:10;
+            }
             h1 {
+                margin-top: 0;
                 color: #009933;
-                font-size: 60px;
+                font-size: 40px;
             }
             ul {
                 border: 1px solid #e7e7e7;
@@ -39,6 +43,10 @@
             li:last-child {
                 border-right: none;
             }
+            #description{
+                margin-left:100;
+                margin-right:100;
+            }
         </style>
     
         <script src="jquery-3.3.1.slim.min.js"></script>
@@ -61,13 +69,22 @@
     </HEAD>
     <BODY>
         <ul>
-            <li><a href="website.html">Submit new data</a></li>
+            <li><a href="index.html">Submit new data</a></li>
             <li><a href="explore.html">Explore our database</a></li>
             <li><a href="chromext.html">Chrome extension</a></li>
             <li style="background-color: #dddddd; float:right"><a href="about.html">About</a></li>
         </ul>
         <center>
+        <img id=logo src=logo.png width=150>
         <h1><span id='life'>Life</span>Spanner</h1>
+        <div id=description>
+        Have you ever had a product that broke down in just a few months and had to replace it? <b>You're not alone!</b><br/>
+According to EndsEurope, the number of household appliances that had to be replaced within the first 5-years have grown from 7% in 2004 to 13% in 2013—whether this is due to “planned obsolescence” where manufacturers have decreased the lifespan of their product, or due to the better upgrades. Over 2 million tons of waste electrical and electronic items is generated in the UK per year, and recycling and treatment of these materials poses significant health and environmental risks.<br/><br/>
+ 
+Our mission is to inform consumers about the life-span and general ratings of their product based on previous users’ experiences so that they can make the best purchases as they shop online. Through a simple Chrome extension, consumers can go onto major online retailors (Amazon—general, VWR—laboratory), and easily learn how long a product has generally lasted. Additionally, they can inform others of their own experiences of a product.<br/><br/>
+            LifeSpanner has been developed during a 12hour-hackathon organised by <a href='http://hackersatcambridge.com'>Hackers At Cambridge</a> on 10 March 2018.<br/><br/><br/>
+            Feel free to <a href='mailto:fantin.mesny@me.com'>contact us</a> if you have any question or request.
+            </div>
         </center>
     </BODY>
  </HTML>

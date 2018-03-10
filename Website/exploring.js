@@ -20,13 +20,15 @@ $(document).ready(function() {
                 sumofspans+=obj[key]['reviews'][nb]['lifespan'];
             };
             var averagerating=sumofratings/obj[key]['reviews'].length;
+            averagerating=averagerating.toFixed(2);
             var averagelifespan=sumofspans/obj[key]['reviews'].length;
+            averagelifespan=averagelifespan.toFixed(2);
             var arr=[];
-            arr.push(obj[key]['brand'] || '');
-            arr.push(obj[key]['model'] || '');
-            arr.push(key || '');
-            arr.push(String(averagerating) || '');
-            arr.push(String(averagelifespan) || '');
+            arr.push(obj[key]['brand'] || 'N/A');
+            arr.push(obj[key]['model'] || 'N/A');
+            arr.push("<a href='http://amazon.co.uk/dp/" + key + "'>"+key+"</a>" || 'N/A');
+            arr.push(String(averagerating) || 'N/A');
+            arr.push(String(averagelifespan) || 'N/A');
             dataSet.push(arr);
         };
         
@@ -35,9 +37,9 @@ $(document).ready(function() {
             columns: [
                 { title: "Brand" },
                 { title: "Model" },
-                { title: "ASIN" },
+                { title: "ASIN"},
                 { title: "Average rating" },
-                { title: "Average lifespan" }
+                { title: "Average lifespan (in months)" }
             ]
         } );
     });
