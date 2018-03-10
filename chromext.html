@@ -1,0 +1,73 @@
+<HTML>
+    <HEAD>
+        <meta charset="UTF-8">
+        <TITLE>LifeSpanner</TITLE>
+        <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+        <style>
+            body {
+                font-family: 'Lato', sans-serif;
+            }
+
+            #life {
+                color: #33cc33;
+            }
+            h1 {
+                color: #009933;
+                font-size: 60px;
+            }
+            ul {
+                border: 1px solid #e7e7e7;
+                background-color: #B0B0B0;
+                list-style-type: none;
+                margin: 0;
+                padding: 0;
+                overflow: hidden;
+            }
+            li {
+                display: inline;
+                float: left;
+                border-right: 1px solid #bbb;
+            }
+            li a {
+                color: #666;
+                display: block;
+                color: white;
+                text-align: center;
+                padding: 10px 16px;
+                text-decoration: none;
+            }
+            li:last-child {
+                border-right: none;
+            }
+        </style>
+    
+        <script src="jquery-3.3.1.slim.min.js"></script>
+        <script type="text/javascript">
+         <!--
+            $(document).ready(function() {
+               $("#catalog").hide();
+               $("#spandiv").hide();
+               $('#amazonb').click(function() { $('#asin').show();$('#catalog').hide();});
+               $('#vwrb').click(function() { $('#catalog').show();$('#asin').hide();});
+               $('#amazonb').click(function() { $('#asin').show();$('#catalog').hide();});
+               $('#datesb').click(function() { $('#spandiv').hide();$('#precisediv').show();});
+               $('#spanb').click(function() { $('#precisediv').hide();$('#spandiv').show();});
+            })
+         //-->
+        </script>
+        <!-- script src="/ocean/static/jquery.qtip.js"></script-->
+        <!-- script src="/ocean/static/waitForImages.js"></script-->
+        <!-- script src="/ocean/static/accueil.js"></script-->
+    </HEAD>
+    <BODY>
+        <ul>
+            <li><a href="website.html">Submit new data</a></li>
+            <li><a href="explore.html">Explore our database</a></li>
+            <li style="background-color: #dddddd"><a href="chromext.html">Chrome extension</a></li>
+            <li style="float:right"><a href="about.html">About</a></li>
+        </ul>
+        <center>
+        <h1><span id='life'>Life</span>Spanner</h1>
+        </center>
+    </BODY>
+ </HTML>
