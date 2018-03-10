@@ -1,0 +1,2990 @@
+{
+	"9888002198" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.03333333333333333,
+			"rating": 1.0
+		},
+		{	"lifespan": 1.4,
+			"rating": 5.0
+		}
+		]
+	},
+	"B00000J0D5" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 2.0,
+			"rating": 1.0
+		}
+		]
+	},
+	"B00003006E" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 5.0
+		}
+		]
+	},
+	"B00004Z5LR" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 8.0,
+			"rating": 5.0
+		}
+		]
+	},
+	"B00005854F" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 2.0,
+			"rating": 1.0
+		}
+		]
+	},
+	"B00005JAD8" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 5.0
+		}
+		]
+	},
+	"B00005T39Y" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.4666666666666667,
+			"rating": 4.0
+		}
+		]
+	},
+	"B000067SMH" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 24.333333333333332,
+			"rating": 5.0
+		}
+		]
+	},
+	"B000068U29" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.16666666666666666,
+			"rating": 1.0
+		}
+		]
+	},
+	"B000069EV0" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.03333333333333333,
+			"rating": 1.0
+		}
+		]
+	},
+	"B00006I53T" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 8.0,
+			"rating": 2.0
+		}
+		]
+	},
+	"B00006RVPW" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.03333333333333333,
+			"rating": 2.0
+		}
+		]
+	},
+	"B00007056H" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 182.5,
+			"rating": 5.0
+		}
+		]
+	},
+	"B00007KLI4" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 1.0,
+			"rating": 1.0
+		}
+		]
+	},
+	"B00008RW8B" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 3.0
+		}
+		]
+	},
+	"B00008VWOJ" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 2.0,
+			"rating": 1.0
+		}
+		]
+	},
+	"B00008Y1BX" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 3.0,
+			"rating": 3.0
+		}
+		]
+	},
+	"B00009NFEP" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 121.66666666666667,
+			"rating": 1.0
+		}
+		]
+	},
+	"B00009W3FR" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.1,
+			"rating": 1.0
+		}
+		]
+	},
+	"B0000A0AJH" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 73.0,
+			"rating": 5.0
+		}
+		]
+	},
+	"B0000A576D" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 1.6666666666666667,
+			"rating": 3.0
+		}
+		]
+	},
+	"B0000BVYTV" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 3.0
+		}
+		]
+	},
+	"B0000BYRIN" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 2.0,
+			"rating": 1.0
+		}
+		]
+	},
+	"B0000CEOYI" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 4.0
+		}
+		]
+	},
+	"B0000UUR6C" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 1.0,
+			"rating": 1.0
+		}
+		]
+	},
+	"B0001BXV9U" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 73.0,
+			"rating": 4.0
+		}
+		]
+	},
+	"B0001CVBRI" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 8.0,
+			"rating": 1.0
+		}
+		]
+	},
+	"B0001DYUJ8" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 1.0,
+			"rating": 2.0
+		}
+		]
+	},
+	"B0001GGXQI" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 2.0,
+			"rating": 1.0
+		}
+		]
+	},
+	"B0001KWGOW" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.7,
+			"rating": 1.0
+		}
+		]
+	},
+	"B0001PFQ08" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.16666666666666666,
+			"rating": 1.0
+		}
+		]
+	},
+	"B0001VWIR6" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 5.0,
+			"rating": 2.0
+		}
+		]
+	},
+	"B000213ZFE" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 24.333333333333332,
+			"rating": 5.0
+		}
+		]
+	},
+	"B00022TNHM" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.23333333333333334,
+			"rating": 1.0
+		}
+		]
+	},
+	"B00027IOI6" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.23333333333333334,
+			"rating": 1.0
+		}
+		]
+	},
+	"B0002CPBWI" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 1.0,
+			"rating": 1.0
+		},
+		{	"lifespan": 0.4666666666666667,
+			"rating": 2.0
+		}
+		]
+	},
+	"B0002EXJ98" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 1.0,
+			"rating": 1.0
+		}
+		]
+	},
+	"B0002I7288" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 1.0
+		},
+		{	"lifespan": 0.4666666666666667,
+			"rating": 2.0
+		}
+		]
+	},
+	"B0002L5R78" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 1.0
+		}
+		]
+	},
+	"B0002SQ2P2" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 4.0
+		}
+		]
+	},
+	"B00030DEQE" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 3.0
+		}
+		]
+	},
+	"B000629GES" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 6.0,
+			"rating": 1.0
+		}
+		]
+	},
+	"B00064ABSG" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 6.0,
+			"rating": 1.0
+		}
+		]
+	},
+	"B0006G36TA" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 2.0,
+			"rating": 1.0
+		}
+		]
+	},
+	"B0006LSIIE" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 1.0,
+			"rating": 3.0
+		}
+		]
+	},
+	"B0007U9KAY" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.2,
+			"rating": 2.0
+		}
+		]
+	},
+	"B00094OX32" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 73.0,
+			"rating": 5.0
+		}
+		]
+	},
+	"B0009A1F6Y" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 608.3333333333334,
+			"rating": 1.0
+		}
+		]
+	},
+	"B0009JR41U" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 73.0,
+			"rating": 5.0
+		}
+		]
+	},
+	"B000A1ESIO" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 3.0
+		}
+		]
+	},
+	"B000AOKTJ8" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 1.0,
+			"rating": 5.0
+		}
+		]
+	},
+	"B000AYHY7I" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 4.0,
+			"rating": 1.0
+		}
+		]
+	},
+	"B000BI7NHY" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 2.0
+		}
+		]
+	},
+	"B000BONJXU" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 1.0,
+			"rating": 2.0
+		},
+		{	"lifespan": 6.0,
+			"rating": 1.0
+		}
+		]
+	},
+	"B000BQYM0W" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 5.0
+		}
+		]
+	},
+	"B000E6NGBU" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.23333333333333334,
+			"rating": 2.0
+		}
+		]
+	},
+	"B000E7RACK" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 1.5,
+			"rating": 5.0
+		}
+		]
+	},
+	"B000EF3D64" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.4666666666666667,
+			"rating": 1.0
+		}
+		]
+	},
+	"B000EPNMKQ" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 6.0,
+			"rating": 1.0
+		}
+		]
+	},
+	"B000EPOPQG" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 5.0
+		}
+		]
+	},
+	"B000EVOANS" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 1.0,
+			"rating": 1.0
+		}
+		]
+	},
+	"B000F4C1H6" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 5.0
+		}
+		]
+	},
+	"B000FKP7TY" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 4.0
+		}
+		]
+	},
+	"B000FNDWLQ" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 3.0,
+			"rating": 3.0
+		}
+		]
+	},
+	"B000FPIM9G" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 48.666666666666664,
+			"rating": 3.0
+		}
+		]
+	},
+	"B000FVCOGC" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.23333333333333334,
+			"rating": 1.0
+		}
+		]
+	},
+	"B000FVDD30" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 2.0
+		},
+		{	"lifespan": 1.0,
+			"rating": 3.0
+		}
+		]
+	},
+	"B000FW60FW" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.03333333333333333,
+			"rating": 1.0
+		}
+		]
+	},
+	"B000G1D8HU" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.03333333333333333,
+			"rating": 1.0
+		}
+		]
+	},
+	"B000GIT00C" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 3.0,
+			"rating": 1.0
+		}
+		]
+	},
+	"B000GT49AC" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 3.0
+		}
+		]
+	},
+	"B000H72MMU" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 1.0,
+			"rating": 2.0
+		}
+		]
+	},
+	"B000HAVVKG" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.16666666666666666,
+			"rating": 1.0
+		}
+		]
+	},
+	"B000HRX0NA" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 5.0
+		}
+		]
+	},
+	"B000HS3O2G" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 10.0,
+			"rating": 1.0
+		}
+		]
+	},
+	"B000I68BD4" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 1.0,
+			"rating": 1.0
+		}
+		]
+	},
+	"B000IBROQE" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 5.0
+		}
+		]
+	},
+	"B000II6YEA" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.23333333333333334,
+			"rating": 1.0
+		}
+		]
+	},
+	"B000JFAMZY" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 73.0,
+			"rating": 5.0
+		},
+		{	"lifespan": 10.0,
+			"rating": 1.0
+		}
+		]
+	},
+	"B000JMJWV2" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 24.333333333333332,
+			"rating": 5.0
+		}
+		]
+	},
+	"B000JV9NL2" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 3.0
+		}
+		]
+	},
+	"B000L4D42Q" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.4666666666666667,
+			"rating": 1.0
+		}
+		]
+	},
+	"B000L9635G" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 5.0
+		}
+		]
+	},
+	"B000LJ3PGQ" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 5.0
+		}
+		]
+	},
+	"B000LQGOTY" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 1.0,
+			"rating": 1.0
+		}
+		]
+	},
+	"B000MXW85A" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 9.0,
+			"rating": 1.0
+		}
+		]
+	},
+	"B000NE3EZQ" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 11.0,
+			"rating": 3.0
+		}
+		]
+	},
+	"B000NK8EWI" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 121.66666666666667,
+			"rating": 4.0
+		}
+		]
+	},
+	"B000NOSQZY" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 2.0
+		}
+		]
+	},
+	"B000NWIOM6" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 4.0
+		}
+		]
+	},
+	"B000O5N5AI" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 5.0
+		}
+		]
+	},
+	"B000OG4E2U" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 2433.3333333333335,
+			"rating": 4.0
+		}
+		]
+	},
+	"B000OPCH52" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.23333333333333334,
+			"rating": 1.0
+		}
+		]
+	},
+	"B000OTF6G0" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.03333333333333333,
+			"rating": 2.0
+		}
+		]
+	},
+	"B000P9I6B6" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.03333333333333333,
+			"rating": 1.0
+		}
+		]
+	},
+	"B000PB4D3E" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 14.0,
+			"rating": 2.0
+		}
+		]
+	},
+	"B000PCVF3E" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 24.333333333333332,
+			"rating": 2.0
+		}
+		]
+	},
+	"B000PHW1UA" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.9333333333333333,
+			"rating": 1.0
+		}
+		]
+	},
+	"B000PKX2KA" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.4666666666666667,
+			"rating": 2.0
+		}
+		]
+	},
+	"B000Q6DLTK" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.23333333333333334,
+			"rating": 1.0
+		}
+		]
+	},
+	"B000Q82I3I" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 1.0,
+			"rating": 4.0
+		}
+		]
+	},
+	"B000Q8UAWY" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 10.0,
+			"rating": 2.0
+		}
+		]
+	},
+	"B000QDBOCY" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.4666666666666667,
+			"rating": 2.0
+		}
+		]
+	},
+	"B000QUUFRW" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 24.333333333333332,
+			"rating": 1.0
+		}
+		]
+	},
+	"B000QY31K6" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 60.833333333333336,
+			"rating": 2.0
+		}
+		]
+	},
+	"B000RH2M7U" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.03333333333333333,
+			"rating": 1.0
+		}
+		]
+	},
+	"B000RO7H1O" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 5.0
+		}
+		]
+	},
+	"B000RYN1MS" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.23333333333333334,
+			"rating": 1.0
+		}
+		]
+	},
+	"B000S5Q9CA" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 5.0
+		},
+		{	"lifespan": 1.0,
+			"rating": 2.0
+		},
+		{	"lifespan": 8.0,
+			"rating": 5.0
+		},
+		{	"lifespan": 12.166666666666666,
+			"rating": 5.0
+		},
+		{	"lifespan": 12.166666666666666,
+			"rating": 3.0
+		}
+		]
+	},
+	"B000SMZ8PM" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.06666666666666667,
+			"rating": 2.0
+		}
+		]
+	},
+	"B000TFIWQK" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.23333333333333334,
+			"rating": 2.0
+		}
+		]
+	},
+	"B000TTTJ36" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.06666666666666667,
+			"rating": 3.0
+		}
+		]
+	},
+	"B000UHQVOW" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 5.0
+		}
+		]
+	},
+	"B000UV4EUG" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.23333333333333334,
+			"rating": 2.0
+		}
+		]
+	},
+	"B000V0ETA6" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 6.0,
+			"rating": 4.0
+		}
+		]
+	},
+	"B000VXKD8K" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 2.0
+		}
+		]
+	},
+	"B000VZCEUI" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 6.0,
+			"rating": 1.0
+		}
+		]
+	},
+	"B000WCUQ8W" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 4.0,
+			"rating": 1.0
+		}
+		]
+	},
+	"B000WDRVJ8" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 1.1666666666666667,
+			"rating": 1.0
+		}
+		]
+	},
+	"B000WEFIE2" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 2.0,
+			"rating": 5.0
+		}
+		]
+	},
+	"B000WG6XW6" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.4666666666666667,
+			"rating": 1.0
+		}
+		]
+	},
+	"B000X24ISU" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 1.0,
+			"rating": 3.0
+		}
+		]
+	},
+	"B000XNR6RY" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 1.8666666666666667,
+			"rating": 1.0
+		}
+		]
+	},
+	"B000YM2OIK" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.23333333333333334,
+			"rating": 1.0
+		}
+		]
+	},
+	"B000Z7AKGC" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 36.5,
+			"rating": 4.0
+		}
+		]
+	},
+	"B000Z80ICM" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 48.666666666666664,
+			"rating": 5.0
+		},
+		{	"lifespan": 60.833333333333336,
+			"rating": 4.0
+		}
+		]
+	},
+	"B00119T6NQ" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 36.5,
+			"rating": 4.0
+		}
+		]
+	},
+	"B0011FOOI2" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.03333333333333333,
+			"rating": 1.0
+		}
+		]
+	},
+	"B0011XUFLE" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 9.0,
+			"rating": 2.0
+		}
+		]
+	},
+	"B0011ZK6PC" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 24.333333333333332,
+			"rating": 2.0
+		}
+		]
+	},
+	"B0012R9T0M" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.03333333333333333,
+			"rating": 1.0
+		}
+		]
+	},
+	"B0012W9APQ" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 2.0
+		}
+		]
+	},
+	"B0012Y0QV6" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.06666666666666667,
+			"rating": 1.0
+		}
+		]
+	},
+	"B00132A7DE" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.03333333333333333,
+			"rating": 1.0
+		}
+		]
+	},
+	"B0013FIO04" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.23333333333333334,
+			"rating": 2.0
+		}
+		]
+	},
+	"B0013FRNKG" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 462.3333333333333,
+			"rating": 5.0
+		}
+		]
+	},
+	"B0014F7Z94" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 1.0,
+			"rating": 1.0
+		}
+		]
+	},
+	"B0014JLPUU" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 5.0
+		}
+		]
+	},
+	"B0014YZ3P8" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 5.0
+		}
+		]
+	},
+	"B001542X64" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 1.0,
+			"rating": 1.0
+		}
+		]
+	},
+	"B0015A6YN6" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.23333333333333334,
+			"rating": 5.0
+		}
+		]
+	},
+	"B0015ADR1I" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 4.0,
+			"rating": 1.0
+		}
+		]
+	},
+	"B0015AHRFK" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 5.0
+		},
+		{	"lifespan": 4.0,
+			"rating": 3.0
+		}
+		]
+	},
+	"B0015EY5RE" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.23333333333333334,
+			"rating": 1.0
+		}
+		]
+	},
+	"B0015KYV3Q" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.23333333333333334,
+			"rating": 1.0
+		},
+		{	"lifespan": 24.333333333333332,
+			"rating": 5.0
+		}
+		]
+	},
+	"B0016AQ930" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 4.0
+		}
+		]
+	},
+	"B0016BVDIK" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.03333333333333333,
+			"rating": 3.0
+		}
+		]
+	},
+	"B001715BIC" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 1.0
+		}
+		]
+	},
+	"B00171AJXY" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 5.0
+		}
+		]
+	},
+	"B0018DQYQ2" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 2.0,
+			"rating": 1.0
+		}
+		]
+	},
+	"B0018LX0DY" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.23333333333333334,
+			"rating": 1.0
+		}
+		]
+	},
+	"B0018MI5F6" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 3.0
+		}
+		]
+	},
+	"B00198F89A" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.03333333333333333,
+			"rating": 3.0
+		}
+		]
+	},
+	"B0019EHU8G" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 6.0,
+			"rating": 1.0
+		}
+		]
+	},
+	"B0019RGQVU" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 1.0,
+			"rating": 2.0
+		}
+		]
+	},
+	"B001A4HAFS" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 1.0,
+			"rating": 2.0
+		}
+		]
+	},
+	"B001ADXR3I" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.03333333333333333,
+			"rating": 1.0
+		}
+		]
+	},
+	"B001AI6CNK" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 2.0,
+			"rating": 1.0
+		}
+		]
+	},
+	"B001B8R03U" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.1,
+			"rating": 1.0
+		}
+		]
+	},
+	"B001BKSZQY" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 1.0
+		}
+		]
+	},
+	"B001BRPLZU" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.23333333333333334,
+			"rating": 1.0
+		}
+		]
+	},
+	"B001BTQHBK" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.03333333333333333,
+			"rating": 1.0
+		}
+		]
+	},
+	"B001BX4NTE" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.23333333333333334,
+			"rating": 2.0
+		}
+		]
+	},
+	"B001CB0RSG" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.23333333333333334,
+			"rating": 1.0
+		}
+		]
+	},
+	"B001CH9YMK" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.4666666666666667,
+			"rating": 3.0
+		}
+		]
+	},
+	"B001CIREXA" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 24.333333333333332,
+			"rating": 4.0
+		}
+		]
+	},
+	"B001CS7U98" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 1.8666666666666667,
+			"rating": 1.0
+		}
+		]
+	},
+	"B001CZ9ZEE" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 304.1666666666667,
+			"rating": 5.0
+		}
+		]
+	},
+	"B001D8NMJ4" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 36.5,
+			"rating": 1.0
+		}
+		]
+	},
+	"B001DQT40M" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.23333333333333334,
+			"rating": 3.0
+		}
+		]
+	},
+	"B001DVZXC0" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 1.0,
+			"rating": 1.0
+		}
+		]
+	},
+	"B001DZLLH2" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 1.0,
+			"rating": 1.0
+		}
+		]
+	},
+	"B001EAQTRI" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.06666666666666667,
+			"rating": 2.0
+		}
+		]
+	},
+	"B001EAWS3W" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 48.666666666666664,
+			"rating": 5.0
+		}
+		]
+	},
+	"B001EBLQ70" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 9.0,
+			"rating": 5.0
+		}
+		]
+	},
+	"B001ELJ9QK" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.23333333333333334,
+			"rating": 5.0
+		},
+		{	"lifespan": 12.166666666666666,
+			"rating": 5.0
+		}
+		]
+	},
+	"B001ENYQT8" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.23333333333333334,
+			"rating": 1.0
+		}
+		]
+	},
+	"B001EYU70O" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 2.0,
+			"rating": 1.0
+		}
+		]
+	},
+	"B001EZRJZE" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.06666666666666667,
+			"rating": 1.0
+		}
+		]
+	},
+	"B001F51G1G" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.9333333333333333,
+			"rating": 3.0
+		}
+		]
+	},
+	"B001F7AHOG" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 2.0
+		}
+		]
+	},
+	"B001F7AJKI" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 5.0
+		},
+		{	"lifespan": 3.0,
+			"rating": 3.0
+		}
+		]
+	},
+	"B001FW9QGQ" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 1.0
+		}
+		]
+	},
+	"B001G0WPLK" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 3.0,
+			"rating": 4.0
+		}
+		]
+	},
+	"B001G1ZPV6" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 1.5,
+			"rating": 1.0
+		},
+		{	"lifespan": 1.0,
+			"rating": 4.0
+		}
+		]
+	},
+	"B001G9TYHE" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.23333333333333334,
+			"rating": 1.0
+		}
+		]
+	},
+	"B001GCAFPG" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 1.0,
+			"rating": 1.0
+		}
+		]
+	},
+	"B001GGL7Z4" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 5.0
+		}
+		]
+	},
+	"B001GQ3DP6" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 5.0
+		}
+		]
+	},
+	"B001GS8FZM" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 97.33333333333333,
+			"rating": 5.0
+		}
+		]
+	},
+	"B001HN6CGU" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.06666666666666667,
+			"rating": 3.0
+		},
+		{	"lifespan": 12.166666666666666,
+			"rating": 5.0
+		}
+		]
+	},
+	"B001IOHAVO" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 4.0,
+			"rating": 1.0
+		}
+		]
+	},
+	"B001IYCUM8" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.6666666666666666,
+			"rating": 1.0
+		}
+		]
+	},
+	"B001L9265G" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.4666666666666667,
+			"rating": 1.0
+		}
+		]
+	},
+	"B001LK8P14" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.03333333333333333,
+			"rating": 1.0
+		}
+		]
+	},
+	"B001LYL9A4" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 6.0,
+			"rating": 2.0
+		}
+		]
+	},
+	"B001M547EM" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.03333333333333333,
+			"rating": 1.0
+		}
+		]
+	},
+	"B001MEDXU2" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.23333333333333334,
+			"rating": 1.0
+		}
+		]
+	},
+	"B00000JSES" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 3.0,
+			"rating": 1.0
+		}
+		]
+	},
+	"B00001P4ZH" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 4.0
+		}
+		]
+	},
+	"B00002EQCS" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 121.66666666666667,
+			"rating": 4.0
+		}
+		]
+	},
+	"B00004T8R2" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 1.0,
+			"rating": 2.0
+		}
+		]
+	},
+	"B00005853Z" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 36.5,
+			"rating": 3.0
+		}
+		]
+	},
+	"B000065BP9" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 2.0,
+			"rating": 5.0
+		}
+		]
+	},
+	"B000065BPB" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 24.333333333333332,
+			"rating": 5.0
+		}
+		]
+	},
+	"B000066R6M" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 4.0
+		}
+		]
+	},
+	"B00006HYJ5" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 2.0,
+			"rating": 1.0
+		}
+		]
+	},
+	"B000087LI2" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 48.666666666666664,
+			"rating": 4.0
+		}
+		]
+	},
+	"B000089GN2" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 6.0,
+			"rating": 3.0
+		},
+		{	"lifespan": 12.166666666666666,
+			"rating": 1.0
+		}
+		]
+	},
+	"B000089GN4" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 6.0,
+			"rating": 1.0
+		}
+		]
+	},
+	"B00009KH63" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 60.833333333333336,
+			"rating": 5.0
+		},
+		{	"lifespan": 12.166666666666666,
+			"rating": 4.0
+		}
+		]
+	},
+	"B00009XVCZ" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 5.0
+		}
+		]
+	},
+	"B0000CE1UO" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 18.0,
+			"rating": 3.0
+		},
+		{	"lifespan": 12.166666666666666,
+			"rating": 4.0
+		}
+		]
+	},
+	"B0000DC643" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.4666666666666667,
+			"rating": 5.0
+		}
+		]
+	},
+	"B0000DCRHA" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 2.0
+		}
+		]
+	},
+	"B0001FV364" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 1.0,
+			"rating": 5.0
+		}
+		]
+	},
+	"B0001FV36E" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 24.333333333333332,
+			"rating": 3.0
+		}
+		]
+	},
+	"B0001G6UAM" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.4666666666666667,
+			"rating": 2.0
+		}
+		]
+	},
+	"B0001LS3EI" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.23333333333333334,
+			"rating": 1.0
+		}
+		]
+	},
+	"B00028DJTY" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 20.0,
+			"rating": 5.0
+		}
+		]
+	},
+	"B0002JKGRQ" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 1.0
+		}
+		]
+	},
+	"B0002OD3JY" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 1.0
+		}
+		]
+	},
+	"B0002ZW5W4" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 24.333333333333332,
+			"rating": 3.0
+		},
+		{	"lifespan": 12.166666666666666,
+			"rating": 5.0
+		}
+		]
+	},
+	"B000652M6Y" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.23333333333333334,
+			"rating": 5.0
+		}
+		]
+	},
+	"B0007N55NM" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 6.0,
+			"rating": 2.0
+		}
+		]
+	},
+	"B0007R4LI8" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 8.0,
+			"rating": 1.0
+		}
+		]
+	},
+	"B0007S8C7I" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 2.0
+		}
+		]
+	},
+	"B00092REF8" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.23333333333333334,
+			"rating": 1.0
+		},
+		{	"lifespan": 12.166666666666666,
+			"rating": 1.0
+		}
+		]
+	},
+	"B0009GZAGO" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 24.333333333333332,
+			"rating": 4.0
+		}
+		]
+	},
+	"B000ALY230" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.4666666666666667,
+			"rating": 1.0
+		}
+		]
+	},
+	"B000AP05BO" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 1.0
+		}
+		]
+	},
+	"B000B622D6" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 1.0,
+			"rating": 1.0
+		}
+		]
+	},
+	"B000B6MLPU" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 6.0,
+			"rating": 1.0
+		}
+		]
+	},
+	"B000BUDHNQ" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 1.0,
+			"rating": 3.0
+		}
+		]
+	},
+	"B000CQVX5I" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 3.0,
+			"rating": 5.0
+		}
+		]
+	},
+	"B000EBPJCO" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 30.416666666666668,
+			"rating": 5.0
+		}
+		]
+	},
+	"B000ENPDHI" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 2.0
+		}
+		]
+	},
+	"B000ERAON2" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 13.0,
+			"rating": 5.0
+		}
+		]
+	},
+	"B000ES8EG0" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 3.0
+		}
+		]
+	},
+	"B000F4C2AM" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 3.0
+		}
+		]
+	},
+	"B000F6UKTU" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 3.0
+		}
+		]
+	},
+	"B000FFYQ1E" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 4.0,
+			"rating": 1.0
+		}
+		]
+	},
+	"B000GC98H8" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 24.333333333333332,
+			"rating": 2.0
+		}
+		]
+	},
+	"B000GDEZLG" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 8.0,
+			"rating": 1.0
+		}
+		]
+	},
+	"B000IDUP3G" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 3.0
+		}
+		]
+	},
+	"B000J4WPW8" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 1.3333333333333333,
+			"rating": 1.0
+		}
+		]
+	},
+	"B000JFGAUU" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 681.3333333333334,
+			"rating": 3.0
+		}
+		]
+	},
+	"B000JNL6WO" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 6.0,
+			"rating": 1.0
+		}
+		]
+	},
+	"B000K5WW1U" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.4666666666666667,
+			"rating": 3.0
+		}
+		]
+	},
+	"B000MAFPVW" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 3.0,
+			"rating": 2.0
+		}
+		]
+	},
+	"B000MMWT9Q" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 2.0
+		},
+		{	"lifespan": 48.666666666666664,
+			"rating": 4.0
+		}
+		]
+	},
+	"B000MS3VGA" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 6.0,
+			"rating": 2.0
+		}
+		]
+	},
+	"B000NVLQ72" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 97.33333333333333,
+			"rating": 3.0
+		}
+		]
+	},
+	"B000NW2DE6" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 4.0
+		}
+		]
+	},
+	"B000O7K4LO" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 48.666666666666664,
+			"rating": 5.0
+		}
+		]
+	},
+	"B000OD05U8" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 8.0,
+			"rating": 2.0
+		}
+		]
+	},
+	"B000ODVKUC" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 2.0,
+			"rating": 3.0
+		}
+		]
+	},
+	"B000OHYIEI" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.23333333333333334,
+			"rating": 1.0
+		}
+		]
+	},
+	"B000P1D7RM" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 1.0,
+			"rating": 3.0
+		}
+		]
+	},
+	"B000P8XLFS" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 2.0,
+			"rating": 2.0
+		}
+		]
+	},
+	"B000PCEFXQ" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 2.0
+		},
+		{	"lifespan": 12.166666666666666,
+			"rating": 3.0
+		}
+		]
+	},
+	"B000Q7IA9U" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 1.0,
+			"rating": 4.0
+		}
+		]
+	},
+	"B000T5AQHS" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.23333333333333334,
+			"rating": 1.0
+		}
+		]
+	},
+	"B000TG4AGU" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 3.0,
+			"rating": 2.0
+		}
+		]
+	},
+	"B000UD205K" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 2.0,
+			"rating": 2.0
+		}
+		]
+	},
+	"B000VDNC9M" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 2.0,
+			"rating": 1.0
+		}
+		]
+	},
+	"B000VEMNRS" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 1.0,
+			"rating": 1.0
+		}
+		]
+	},
+	"B000VK08GA" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 1.0,
+			"rating": 3.0
+		}
+		]
+	},
+	"B000VSWHIE" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 6.0,
+			"rating": 2.0
+		}
+		]
+	},
+	"B000WAT79S" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 6.0,
+			"rating": 3.0
+		},
+		{	"lifespan": 5.0,
+			"rating": 5.0
+		}
+		]
+	},
+	"B000WFNA8W" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 1.0,
+			"rating": 1.0
+		}
+		]
+	},
+	"B000WFZRZG" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 3.0
+		}
+		]
+	},
+	"B000WKPHHO" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 3.0
+		}
+		]
+	},
+	"B000X26UTU" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 3.0,
+			"rating": 3.0
+		}
+		]
+	},
+	"B000Z4AQFU" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.4666666666666667,
+			"rating": 2.0
+		}
+		]
+	},
+	"B0011UK35K" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 2.0
+		}
+		]
+	},
+	"B0012Y2LLE" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 1.0
+		}
+		]
+	},
+	"B0014S5FVQ" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 24.333333333333332,
+			"rating": 1.0
+		},
+		{	"lifespan": 0.23333333333333334,
+			"rating": 1.0
+		}
+		]
+	},
+	"B00154QAXQ" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 1.0,
+			"rating": 3.0
+		}
+		]
+	},
+	"B0015HOFZI" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 1.0,
+			"rating": 5.0
+		}
+		]
+	},
+	"B00171MWSO" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 60.833333333333336,
+			"rating": 5.0
+		}
+		]
+	},
+	"B00172TUFQ" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 1.1666666666666667,
+			"rating": 1.0
+		}
+		]
+	},
+	"B0017U0WM8" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 6.0,
+			"rating": 5.0
+		}
+		]
+	},
+	"B0018DKODQ" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 1.0,
+			"rating": 1.0
+		}
+		]
+	},
+	"B0019BEJQA" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.4666666666666667,
+			"rating": 1.0
+		}
+		]
+	},
+	"B0019RBJOE" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 5.0
+		}
+		]
+	},
+	"B001AW5RK0" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 5.0
+		}
+		]
+	},
+	"B001AZP8EW" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 10.0,
+			"rating": 1.0
+		}
+		]
+	},
+	"B001B8CSQ4" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 6.5,
+			"rating": 4.0
+		},
+		{	"lifespan": 1.0,
+			"rating": 3.0
+		}
+		]
+	},
+	"B001CN9K6E" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 2.0
+		}
+		]
+	},
+	"B001D60LG8" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 4.0
+		}
+		]
+	},
+	"B001D6ZACI" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 48.666666666666664,
+			"rating": 4.0
+		}
+		]
+	},
+	"B001D9IWIY" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 73.0,
+			"rating": 2.0
+		}
+		]
+	},
+	"B001E0JH5E" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.23333333333333334,
+			"rating": 2.0
+		}
+		]
+	},
+	"B001ELK2NY" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.03333333333333333,
+			"rating": 4.0
+		}
+		]
+	},
+	"B001ET6P8M" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.9333333333333333,
+			"rating": 1.0
+		}
+		]
+	},
+	"B001EYU3L2" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 60.833333333333336,
+			"rating": 4.0
+		}
+		]
+	},
+	"B001EZYMF4" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 5.0
+		}
+		]
+	},
+	"B001F51G16" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 121.66666666666667,
+			"rating": 5.0
+		}
+		]
+	},
+	"B001FA1O0E" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 1.0,
+			"rating": 3.0
+		}
+		]
+	},
+	"B001FO0V2M" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 4.0
+		}
+		]
+	},
+	"B001H4B0AC" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.1,
+			"rating": 4.0
+		}
+		]
+	},
+	"B001J30FZM" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.0,
+			"rating": 4.0
+		}
+		]
+	},
+	"B001JK3NX6" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.23333333333333334,
+			"rating": 3.0
+		}
+		]
+	},
+	"B001KUSXXU" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 1.0,
+			"rating": 3.0
+		}
+		]
+	},
+	"B0009Y7IK2" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 1.0
+		}
+		]
+	},
+	"B000E0G00K" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 18.0,
+			"rating": 2.0
+		}
+		]
+	},
+	"B000HZDF8W" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 4.0
+		}
+		]
+	},
+	"B000QY4T3E" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.7,
+			"rating": 1.0
+		}
+		]
+	},
+	"B0014XKQY2" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 48.666666666666664,
+			"rating": 1.0
+		}
+		]
+	},
+	"B0006B486K" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.23333333333333334,
+			"rating": 5.0
+		}
+		]
+	},
+	"B0008GGB36" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.23333333333333334,
+			"rating": 1.0
+		}
+		]
+	},
+	"B000CS7U1C" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 4.0
+		}
+		]
+	},
+	"B000E3BV42" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 1.1666666666666667,
+			"rating": 4.0
+		}
+		]
+	},
+	"B000GR3XYM" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 1.0,
+			"rating": 2.0
+		}
+		]
+	},
+	"B000GTBDBA" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 3.0,
+			"rating": 3.0
+		}
+		]
+	},
+	"B000I42QO6" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 1.0
+		}
+		]
+	},
+	"B000M4J2LM" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 60.833333333333336,
+			"rating": 5.0
+		}
+		]
+	},
+	"B000UHE8Y2" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 36.5,
+			"rating": 4.0
+		}
+		]
+	},
+	"B001CEYYFK" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.0,
+			"rating": 1.0
+		}
+		]
+	},
+	"B001DDG8I6" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 4.0
+		}
+		]
+	},
+	"B001NJO6AC" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 0.23333333333333334,
+			"rating": 1.0
+		}
+		]
+	},
+	"B000EVOP6A" : {
+		"brand" : null,
+		"model" : null,
+		"reviews" : [ 
+		{	"lifespan": 12.166666666666666,
+			"rating": 5.0
+		}
+		]
+	},
+}
