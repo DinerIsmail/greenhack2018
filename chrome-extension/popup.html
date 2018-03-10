@@ -15,16 +15,28 @@
 		}
 
 		h1 {
-			font-size: 15px;
+			font-size: 25px;
+		}
+
+		h1.title {
+			display: inline;
+
 		}
 
 		#container {
 			align-items: center;
 			justify-content: space-between;
+			margin-top: 20px
 		}
 
-		#findLifespan {
-			display: block
+		#productInfo {
+			font-size: 16px
+		}
+
+		#loading{
+			width: 30px;
+			background-image: url('loading.gif');
+			display: block;
 		}
 
 		.is-hidden {
@@ -33,15 +45,16 @@
 	</style>
 
 	<script src="https://www.gstatic.com/firebasejs/4.10.1/firebase.js"></script>
+	<script src="lodash.js"></script>
 	<script src="popup.js"></script>
 </head>
 
 <body>
-	<h1>Lifespanner</h1>
+	<img width=30 src="icon.png" /> <h1 class="title">Lifespanner</h1>
 	<div id="container">
-		<span id='statusLabel'>Do you want to find the average lifespan of the product you're about to purchase?</span>
-		<button id="findLifespan">Find lifespan</button>
+		<span id='statusLabel'></span>
 
+		<div id="loading"></div>
 		<div id="productInfo"></div>
 	</div>
 </body>

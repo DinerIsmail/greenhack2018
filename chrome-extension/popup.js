@@ -107,22 +107,34 @@ function saveBackgroundColor(url, color) {
 	chrome.storage.sync.set(items);
 }
 
-var hide = function(elem) {
-	elem.classList.add('is-hidden');
+var hide = function(el) {
+	el.classList.add('is-hidden');
 };
 
+var show = function(el) {
+	el.classList.remove('is-hidden');
+}
+
 function displayProductInformation(product) {
-	var avgLifespan = product.reviews[0].lifespan; // TODO: calculate average
+	var lifespans = [], ratings = [];
+	product.reviews.forEach(function(review) {
+		if (review.lifespan) lifespans.push(review.lifespan);
+		if (review.rating) ratings.push(review.rating);
+	});
+	var avgLifespan = _.mean(lifespans);
+	var avgRating = _.mean(ratings);
 
 	var productInfoLabel = document.getElementById('productInfo');
-	productInfoLabel.innerHTML = `The average lifespan of this product is ${avgLifespan} months`;
+	productInfoLabel.innerHTML = `
+		Average lifespan: <b>${avgLifespan}</b> months<br>
+		Average rating: <b>${avgRating}/5</b>`;
 }
 
 document.addEventListener('DOMContentLoaded', () => {
 	getCurrentTabUrl((url) => {
-		var button = document.getElementById('findLifespan');
 		var productInfoLabel = document.getElementById('productInfo');
 		var statusLabel = document.getElementById('statusLabel');
+		var emoji = document.getElementById('emoji');
 		var ASIN = null;
 
 		var regex = RegExp("https://www.amazon.co.uk/([\\w-]+/)?(dp|gp/product)/(\\w+/)?(\\w{10})");
@@ -131,25 +143,24 @@ document.addEventListener('DOMContentLoaded', () => {
 			ASIN = m[4];
 		} else {
 			productInfoLabel.innerHTML = 'Sorry, Lifespanner only works with Amazon for now.';
-			hide(button);
-			hide(statusLabel);
+			//hide(statusLabel);
 		}
 
-		button.addEventListener('click', () => {
-			console.log('button was clicked!');
-			
-			if (ASIN) {
-				var reviewRef = firebase.database().ref(`${ASIN}/`);
-				reviewRef.on('value', function(snapshot) {
-					var product = snapshot.val();
-					console.log(product);
-					if (product) {
-						displayProductInformation(product);
-					} else {
-						productInfoLabel.innerHTML = 'Sorry, but we don\'t have this product in our database yet.';
-					}
-				});
-			}
-		});
+		if (ASIN) {
+			var reviewRef = firebase.database().ref(`${ASIN}/`);
+			reviewRef.on('value', function(snapshot) {
+				var product = snapshot.val();
+				console.log(product);
+				if (product) {
+					displayProductInformation(product);
+					statusLabel.textContent = "We have some useful information about this product."
+				} else {
+					productInfoLabel.textContent = 'Sorry, but we don\'t have this product in our database yet.'
+					show(emoji);
+				}
+
+				//hide(statusLabel);
+			});
+		}
 	});
 });
