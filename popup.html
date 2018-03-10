@@ -1,0 +1,38 @@
+<!doctype html>
+<!--
+ This page is shown when the extension button is clicked, because the
+ "browser_action" field in manifest.json contains the "default_popup" key with
+ value "popup.html".
+ -->
+<html>
+
+<head>
+	<title>Getting Started Extension's Popup</title>
+	<style type="text/css">
+		body {
+			margin: 10px;
+			white-space: nowrap;
+		}
+
+		h1 {
+			font-size: 15px;
+		}
+
+		#container {
+			align-items: center;
+			display: flex;
+			justify-content: space-between;
+		}
+	</style>
+
+	<script src="popup.js"></script>
+</head>
+
+<body>
+	<h1>Lifespanner</h1>
+	<div id="container">
+		<span>Do you want to find the average lifespan of the product you're about to purchase?</span>
+		<button id="findLifetime">Find lifetime</button>
+	</div>
+</body>
+</html>
