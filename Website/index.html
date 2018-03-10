@@ -1,106 +1,150 @@
 <HTML>
-    <HEAD>
-        <meta charset="UTF-8">
-        <TITLE>LifeSpanner</TITLE>
-        <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
-        <style>
-            body {
-                font-family: 'Lato', sans-serif;
-            }
 
-            #life {
-                color: #33cc33;
-            }
-            h1 {
-                color: #009933;
-                font-size: 60px;
-            }
-            ul {
-                border: 1px solid #e7e7e7;
-                background-color: #B0B0B0;
-                list-style-type: none;
-                margin: 0;
-                padding: 0;
-                overflow: hidden;
-            }
-            li {
-                display: inline;
-                float: left;
-                border-right: 1px solid #bbb;
-            }
-            li a {
-                color: #666;
-                display: block;
-                color: white;
-                text-align: center;
-                padding: 10px 16px;
-                text-decoration: none;
-            }
-            li:last-child {
-                border-right: none;
-            }
-        </style>
-    
-        <script src="jquery-3.3.1.slim.min.js"></script>
-        <script type="text/javascript">
-         <!--
-            $(document).ready(function() {
-               $("#catalog").hide();
-               $("#spandiv").hide();
-               $('#amazonb').click(function() { $('#asin').show();$('#catalog').hide();});
-               $('#vwrb').click(function() { $('#catalog').show();$('#asin').hide();});
-               $('#amazonb').click(function() { $('#asin').show();$('#catalog').hide();});
-               $('#datesb').click(function() { $('#spandiv').hide();$('#precisediv').show();});
-               $('#spanb').click(function() { $('#precisediv').hide();$('#spandiv').show();});
-            })
-         //-->
-        </script>
-        <!-- script src="/ocean/static/jquery.qtip.js"></script-->
-        <!-- script src="/ocean/static/waitForImages.js"></script-->
-        <!-- script src="/ocean/static/accueil.js"></script-->
-    </HEAD>
-    <BODY>
-        <ul>
-            <li style="background-color: #dddddd"><a href="website.html">Submit new data</a></li>
-            <li><a href="explore.html">Explore our database</a></li>
-            <li><a href="chromext.html">Chrome extension</a></li>
-            <li style="float:right"><a href="about.html">About</a></li>
-        </ul>
-        <center>
-        <h1><span id='life'>Life</span>Spanner</h1>
-        <form>
-            <div><b>Seller:</b>
-                <input type="radio" id="amazonb" name="typ" value="amazon" checked>Amazon<input type="radio" id="vwrb" name="typ" value="vwr">VWR
-            </div><br/>
-            <div id='asin'><b>ASIN:</b>
-                <input name='asin' type="text"/>
-            </div>
-            <div id='catalog'><b>Catalog number:</b>
-                <input name='catnb' type="text"/>
-            </div><br/><br/>
-            <div><input type="radio" id="datesb" name="typ2" value="dates" checked>Precise dates of purchase and breakdown<input type="radio" id="spanb" name="typ2" value="span">Approximative lifespan</div><br/>
-            <div id='precisediv'>
-            <div><b>Date of purchase:</b>
-                <input id="date" type="date" value="2017-06-01">
-            </div>
-            <div><b>Date of breakdown:</b>
-                <input id="date" type="date" value="2017-06-01">
-            </div></div>
-            <div id='spandiv'><b>Lifespan in months:</b>
-                <input id="span" type="number" value="6">
-            </div>
-            <br/>
-            <!-- div><b>Issues:</b>
+<HEAD>
+	<meta charset="UTF-8">
+	<TITLE>LifeSpanner</TITLE>
+	<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+	<style>
+		body {
+			font-family: 'Lato', sans-serif;
+		}
+
+		#life {
+			color: #33cc33;
+		}
+
+		h1 {
+			color: #009933;
+			font-size: 60px;
+		}
+
+		.logo {
+			margin-top: 30px
+		}
+
+		ul {
+			border: 1px solid #e7e7e7;
+			background-color: #B0B0B0;
+			list-style-type: none;
+			margin: 0;
+			padding: 0;
+			overflow: hidden;
+		}
+
+		li {
+			display: inline;
+			float: left;
+			border-right: 1px solid #bbb;
+		}
+
+		li a {
+			color: #666;
+			display: block;
+			color: white;
+			text-align: center;
+			padding: 10px 16px;
+			text-decoration: none;
+		}
+
+		li:last-child {
+			border-right: none;
+		}
+	</style>
+
+	<script src="jquery-3.3.1.slim.min.js"></script>
+	<script src="https://www.gstatic.com/firebasejs/4.10.1/firebase.js"></script>
+	<script type="text/javascript">
+
+		$(document).ready(function () {
+			$("#catalog").hide();
+			$("#spandiv").hide();
+			$('#amazonb').click(function () { $('#asin').show(); $('#catalog').hide(); });
+			$('#vwrb').click(function () { $('#catalog').show(); $('#asin').hide(); });
+			$('#amazonb').click(function () { $('#asin').show(); $('#catalog').hide(); });
+			$('#datesb').click(function () { $('#spandiv').hide(); $('#precisediv').show(); });
+			$('#spanb').click(function () { $('#precisediv').hide(); $('#spandiv').show(); });
+		})
+
+	</script>
+	<script src="index.js"></script>
+	<!-- script src="/ocean/static/jquery.qtip.js"></script-->
+	<!-- script src="/ocean/static/waitForImages.js"></script-->
+	<!-- script src="/ocean/static/accueil.js"></script-->
+</HEAD>
+
+<BODY>
+	<ul>
+		<li style="background-color: #dddddd">
+			<a href="index.html">Submit new data</a>
+		</li>
+		<li>
+			<a href="explore.html">Explore our database</a>
+		</li>
+		<li>
+			<a href="chromext.html">Chrome extension</a>
+		</li>
+		<li style="float:right">
+			<a href="about.html">About</a>
+		</li>
+	</ul>
+	<center>
+		<img class="logo" width=80 src="logo.png" />
+		<h1>
+			<span id='life'>Life</span>Spanner</h1>
+		<form>
+			<div>
+				<input type="radio" id="amazonb" name="typ" value="amazon" checked>Amazon
+			</div>
+			<br/>
+			<div id='asin'>
+				<b>ASIN code:</b>
+				<input name='asin' type="text" />
+			</div>
+			<div id='catalog'>
+				<b>Catalog number:</b>
+				<input name='catnb' type="text" />
+			</div>
+			<br/>
+			<br/>
+			<div>
+				<input type="radio" id="datesb" name="typ2" value="dates" checked>Precise dates of purchase and breakdown
+				<input type="radio" id="spanb" name="typ2" value="lifespan">Approximative lifespan
+			</div>
+			<br/>
+			<div id='precisediv'>
+				<div>
+					<b>Date of purchase:</b>
+					<input name="purchase-date" id="date" type="date" value="2017-12-10">
+				</div>
+				<div>
+					<b>Date of breakdown:</b>
+					<input name="breakdown-date" id="date" type="date" value="2018-03-10">
+				</div>
+			</div>
+			<div id='spandiv'>
+				<b>Lifespan in months:</b>
+				<input name="lifespan-months" id="lifespan" type="number" value="">
+			</div>
+			<br/>
+			<!-- div><b>Issues:</b>
             <select name="symptoms" class="inline">
 	               <option value="power">Does not power on</option>
 	               <option value="brokenpart">A part is broken</option>
 	               <option value=""></option-->
-            <div><b>Rating:</b>
-                <input type="number" name="rating" min="1" max="5"><br/>
-                <i>Please rate your experience with the product before its breakdown</i>
-            </div><br/><br/>
-            <div><input type="submit" name="submit" value="Submit"></div>
-        </form>
-        </center>
-    </BODY>
- </HTML>
+			<div>
+				<b>Rating:</b>
+				<input type="number" name="rating" min="1" max="5">
+				<br/>
+				<i>Please rate your experience with the product before its breakdown</i>
+			</div>
+			<br/>
+			<br/>
+			<div>
+				<input type="submit" name="submit" value="Submit">
+			</div>
+			<span id="success-message"></span>
+		</form>
+	</center>
+</BODY>
+
+</HTML>
