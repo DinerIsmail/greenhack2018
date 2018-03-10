@@ -22,7 +22,7 @@ $(document).ready(function() {
             };
         var averagerating=sumofratings/obj[key]['reviews'].length;
         var averagelifespan=sumofspans/obj[key]['reviews'].length;
-        dataSet.push([obj[key]['brand'],obj[key]['model'],key,averagerating,averagelifespan])
+        dataSet.push([obj[key]['brand'],obj[key]['model'],key,averagerating,averagelifespan]);
         };
     });
     console.log(dataSet);
