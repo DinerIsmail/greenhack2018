@@ -6,7 +6,7 @@ Reviews on electrical equipments
 Using data from Julian McAuley, UCSD, downloadable [here](http://jmcauley.ucsd.edu/data/amazon/)
 
 ## Method
-For now, we only have a very simple, keyword-based method implemented, looking for reviews of the form "worked for X period" and "broke after X period"
+For now, we only have a very simple, keyword-based method implemented, looking for reviews of the form "worked for X period", "broke after X period" and the like.
 
 The algorithm is as follows:
 
