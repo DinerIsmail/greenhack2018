@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+var config = {
+	apiKey: "AIzaSyBsAQ3RHmTCPNI4k94dl3o1Qoyv_MYTiQg",
+	authDomain: "lifespanner-b62e1.firebaseapp.com",
+	databaseURL: "https://lifespanner-b62e1.firebaseio.com",
+	storageBucket: "<BUCKET>.appspot.com",
+	messagingSenderId: "<SENDER_ID>",
+};
+firebase.initializeApp(config);
+var database = firebase.database();
+
 /**
  * Get the current URL.
  *
@@ -97,33 +107,49 @@ function saveBackgroundColor(url, color) {
 	chrome.storage.sync.set(items);
 }
 
-// This extension loads the saved background color for the current tab if one
-// exists. The user can select a new background color from the dropdown for the
-// current page, and it will be saved as part of the extension's isolated
-// storage. The chrome.storage API is used for this purpose. This is different
-// from the window.localStorage API, which is synchronous and stores data bound
-// to a document's origin. Also, using chrome.storage.sync instead of
-// chrome.storage.local allows the extension data to be synced across multiple
-// user devices.
+var hide = function(elem) {
+	elem.classList.add('is-hidden');
+};
+
+function displayProductInformation(product) {
+	var avgLifespan = product.reviews[0].lifespan; // TODO: calculate average
+
+	var productInfoLabel = document.getElementById('productInfo');
+	productInfoLabel.innerHTML = `The average lifespan of this product is ${avgLifespan} months`;
+}
+
 document.addEventListener('DOMContentLoaded', () => {
 	getCurrentTabUrl((url) => {
-		var button = document.getElementById('findLifetime');
+		var button = document.getElementById('findLifespan');
+		var productInfoLabel = document.getElementById('productInfo');
+		var statusLabel = document.getElementById('statusLabel');
+		var ASIN = null;
 
-		// Load the saved background color for this page and modify the dropdown
-		// value, if needed.
-		// getSavedBackgroundColor(url, (savedColor) => {
-		//   if (savedColor) {
-		//     changeBackgroundColor(savedColor);
-		//     dropdown.value = savedColor;
-		//   }
-		// });
+		var regex = RegExp("https://www.amazon.co.uk/([\\w-]+/)?(dp|gp/product)/(\\w+/)?(\\w{10})");
+		m = url.match(regex);
+		if (m) {
+			ASIN = m[4];
+		} else {
+			productInfoLabel.innerHTML = 'Sorry, Lifespanner only works with Amazon for now.';
+			hide(button);
+			hide(statusLabel);
+		}
 
-		// Ensure the background color is changed and saved when the dropdown
-		// selection changes.
 		button.addEventListener('click', () => {
-			//   changeBackgroundColor(dropdown.value);
-			//   saveBackgroundColor(url, dropdown.value);
 			console.log('button was clicked!');
+			
+			if (ASIN) {
+				var reviewRef = firebase.database().ref(`${ASIN}/`);
+				reviewRef.on('value', function(snapshot) {
+					var product = snapshot.val();
+					console.log(product);
+					if (product) {
+						displayProductInformation(product);
+					} else {
+						productInfoLabel.innerHTML = 'Sorry, but we don\'t have this product in our database yet.';
+					}
+				});
+			}
 		});
 	});
 });

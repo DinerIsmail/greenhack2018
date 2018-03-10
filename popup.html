@@ -20,19 +20,29 @@
 
 		#container {
 			align-items: center;
-			display: flex;
 			justify-content: space-between;
+		}
+
+		#findLifespan {
+			display: block
+		}
+
+		.is-hidden {
+			display: none !important;
 		}
 	</style>
 
+	<script src="https://www.gstatic.com/firebasejs/4.10.1/firebase.js"></script>
 	<script src="popup.js"></script>
 </head>
 
 <body>
 	<h1>Lifespanner</h1>
 	<div id="container">
-		<span>Do you want to find the average lifespan of the product you're about to purchase?</span>
-		<button id="findLifetime">Find lifetime</button>
+		<span id='statusLabel'>Do you want to find the average lifespan of the product you're about to purchase?</span>
+		<button id="findLifespan">Find lifespan</button>
+
+		<div id="productInfo"></div>
 	</div>
 </body>
 </html>
