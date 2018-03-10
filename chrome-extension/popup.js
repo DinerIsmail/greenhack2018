@@ -107,17 +107,17 @@ function saveBackgroundColor(url, color) {
 	chrome.storage.sync.set(items);
 }
 
-var hide = function(el) {
+var hide = function (el) {
 	el.classList.add('is-hidden');
 };
 
-var show = function(el) {
+var show = function (el) {
 	el.classList.remove('is-hidden');
 }
 
 function displayProductInformation(product) {
 	var lifespans = [], ratings = [];
-	product.reviews.forEach(function(review) {
+	product.reviews.forEach(function (review) {
 		if (review.lifespan) lifespans.push(review.lifespan);
 		if (review.rating) ratings.push(review.rating);
 	});
@@ -147,15 +147,18 @@ document.addEventListener('DOMContentLoaded', () => {
 
 		if (ASIN) {
 			var reviewRef = firebase.database().ref(`${ASIN}/`);
-			reviewRef.on('value', function(snapshot) {
+			reviewRef.on('value', function (snapshot) {
 				var product = snapshot.val();
 				console.log(product);
 				if (product) {
 					displayProductInformation(product);
 					statusLabel.textContent = "We have some useful information about this product."
+
+					// var brandRef = database.ref(`/${ASIN}`).update({
+					// 	brand: 'test'
+					// });
 				} else {
 					productInfoLabel.textContent = 'Sorry, but we don\'t have this product in our database yet.'
-					show(emoji);
 				}
 			});
 		}
