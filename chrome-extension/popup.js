@@ -121,7 +121,7 @@ function displayProductInformation(product) {
 		if (review.lifespan) lifespans.push(review.lifespan);
 		if (review.rating) ratings.push(review.rating);
 	});
-	var avgLifespan = _.mean(lifespans);
+	var avgLifespan = _.round(_.mean(lifespans), 0);
 	var avgRating = _.mean(ratings);
 
 	var productInfoLabel = document.getElementById('productInfo');
@@ -143,7 +143,6 @@ document.addEventListener('DOMContentLoaded', () => {
 			ASIN = m[4];
 		} else {
 			productInfoLabel.innerHTML = 'Sorry, Lifespanner only works with Amazon for now.';
-			//hide(statusLabel);
 		}
 
 		if (ASIN) {
@@ -158,8 +157,6 @@ document.addEventListener('DOMContentLoaded', () => {
 					productInfoLabel.textContent = 'Sorry, but we don\'t have this product in our database yet.'
 					show(emoji);
 				}
-
-				//hide(statusLabel);
 			});
 		}
 	});
