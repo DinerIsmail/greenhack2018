@@ -22,6 +22,7 @@
                 background-color: #B0B0B0;
                 list-style-type: none;
                 margin: 0;
+				margin-top: 70px;
                 padding: 0;
                 overflow: hidden;
             }
@@ -41,6 +42,20 @@
             li:last-child {
                 border-right: none;
             }
+
+			div#banner { 
+				position: absolute;
+				top: 0;
+				left: 0;
+				background-color: #DDEEEE;
+				width: 100%;
+			}
+			div#banner-content {
+				width: 800px;
+				margin: 0 auto;
+				padding: 10px;
+				border: 1px solid #000;
+			}
         </style>
     
 		<script src="jquery-3.3.1.slim.min.js"></script>
@@ -61,6 +76,11 @@
 		<script src="index.js"></script>
     </HEAD>
 <BODY>
+		<div id="banner">
+				<div id="banner-content">
+					This website is only the work done in a hackathon and is not in a functional state. The actual website is being actively worked on and will be released in upcoming months.
+				</div>
+		</div>
 	<ul>
 		<li style="background-color: #dddddd">
 			<a href="index.html">Submit new data</a>
